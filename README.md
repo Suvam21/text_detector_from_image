@@ -1,1 +1,1 @@
-# text_detector_from_image
+# **Text Detector from an Image**
